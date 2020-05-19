@@ -2,9 +2,11 @@
 </body>
 <p><a href="https://gergelyattila.github.io/ga.github.io/#" target="_blank">Főoldal</a></p>
 
-<h1>Szörfözésről:</h1>
+<h1>Katamaránozásról:</h1>
 
-<h2>Mindig is vonzott a vizi sportok e műfaja. KB 12 évesen kaptam az első szörfömet azóta szerelem. A Balaton adotságai miatt a szörfözés itt csak vitorlával valósítható meg. Ezt hívják windsurfnek.</h2>
-<h3>A hullámlovaglás egy igen régi sport, az első európai írásos említés Cook kapitány naplójában található, melyben a Hawaii-szigeteki bennszülöttek furcsa szórakozásáról ír, mindezt az 1700-as évek vége felén tette, feltételezhető, hogy a hawaii emberek már jóval korábban űzték ezt a kellemes sportot.
-A széllel hajtott szörfdeszka ötlete ehhez képest egészen friss, először Jim Drake és barátja fejében merült fel 1962 tavaszán, Kaliforniában. Az eredeti ötlet inkább a kitesurfhoz volt hasonló, hiszen a szörfdeszkát nagy méretű sárkánnyal (ernyővel) hajtotta volna a feltaláló. Eljött aztán 1967, mikor a tervekből egy működőképes vízi jármű, az álmokból tettek lettek, Jim Drake megtette első métereit egy háromszög alakú vitorlával felszerelt szörffel a Jamaica-öböl vízén.
+<h2>A balaton legsebesebb hajójának a katamaránt mondják. Két teste van, könnyü, hatalmas vitorlával. Ennél több nem is kell a sebességhez.</h2>
+<h3>A katamarán kéttörzsű hajó, amelynek két törzse egymással párhuzamos és egyforma. A katamaránt geometriája stabilizálja, tőkesúly nem kell bele. Ezáltal könnyebb, így kisebb a merülése, mint az egytörzsű hajóknak. A két törzset lehet úgy egymáshoz erősíteni, hogy hidrodinamikai ellenállása kisebb legyen, ezzel a hajónak kisebb hajtóerőre van szüksége az azonos sebesség eléréséhez. Mérete a csónaktól (evezős vagy vitorlás) a nagy hajókig (tengerészeti járművek és autók szállítására alkalmas kompok) terjed. A két törzset összekapcsoló szerkezet egy egyszerű pallótól a nagy felépítményekig terjed, ami kabinokat és/vagy rakteret foglal magába.
   </h3>
+  <img src = "https://www.marinescene.asia/wp-content/uploads/2012/12/GC32128.jpeg">
+  <img src = "https://www.2luxury2.com/wp-content/uploads/New-GC32-foiling-catamaran-launched-in-front-of-Burj-al-Arab.jpg">
+  <img src = "https://www.go-bulgaria.com/slider/1.jpg">
